@@ -2,6 +2,6 @@ zuul:
   routes:
     api-b:
       path: /api-b/**
-      serviceId: user-providerzuul:
+      serviceId: user-provider
 
       
